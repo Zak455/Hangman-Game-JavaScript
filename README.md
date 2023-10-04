@@ -12,7 +12,6 @@ This is a classic Hangman game implemented using HTML, CSS, and JavaScript. Chal
 - Responsive design for both desktop and mobile devices.
 
 Feel free to explore, fork, and contribute to this project. Have fun guessing words and customizing the game to your liking!
-Demo: Play the Hangman Game
 
 # Getting Started:
 
@@ -24,3 +23,8 @@ Open the index.html file in your web browser to start playing.
 Contributions are welcome! Whether you want to improve the game, add new features, or fix bugs, your contributions will help make this Hangman game even better. Please follow our Contributing Guidelines for more details.
 
 # License:
+Creative Commons License
+## Demo
+
+Insert gif or link to demo
+
