@@ -13,6 +13,9 @@ This is a classic Hangman game implemented using HTML, CSS, and JavaScript. Chal
 
 Feel free to explore, fork, and contribute to this project. Have fun guessing words and customizing the game to your liking!
 
+## Demo
+[Play Hangman Here!](https://zak455.github.io/Hangman-Game-JavaScript/)
+
 # Getting Started:
 
 Clone the repository.
@@ -24,7 +27,4 @@ Contributions are welcome! Whether you want to improve the game, add new feature
 
 # License:
 Creative Commons License
-
-## Demo
-[Insert gif or link to demo](https://zak455.github.io/Hangman-Game-JavaScript/)https://zak455.github.io/Hangman-Game-JavaScript/
 
