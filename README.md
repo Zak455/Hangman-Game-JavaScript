@@ -24,7 +24,7 @@ Contributions are welcome! Whether you want to improve the game, add new feature
 
 # License:
 Creative Commons License
-## Demo
 
-Insert gif or link to demo
+## Demo
+[Insert gif or link to demo](https://zak455.github.io/Hangman-Game-JavaScript/)https://zak455.github.io/Hangman-Game-JavaScript/
 
